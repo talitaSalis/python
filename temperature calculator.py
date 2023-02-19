@@ -12,7 +12,7 @@ def c (f):
     return a
 
 
-s=str(input("valor "))
+s=str(input("valor em c "))
 x=s.isnumeric()
 if x:   
     x=float(s)
@@ -22,7 +22,7 @@ else:
      print("nao é um numero validoc")     
 
 
-s=str(input("valor "))
+s=str(input("valor em f "))
 x=s.isnumeric()
 if x:   
     x=float(s)
